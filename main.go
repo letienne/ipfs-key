@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	ci "github.com/libp2p/go-libp2p-core/crypto"
-	peer "libp2p/go-libp2p-core/peer"
+	peer "github.com/libp2p/go-libp2p-core/peer"
 )
 
 func main() {
